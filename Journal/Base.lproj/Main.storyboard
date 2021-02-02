@@ -759,7 +759,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.75406885150000003" green="0.75408679249999999" blue="0.75407713649999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
-                                <state key="normal" title="Daily Check In Introspection">
+                                <state key="normal" title="Daily Check In ">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
@@ -873,7 +873,7 @@
         <segue reference="eVf-w7-8Qv"/>
         <segue reference="EJe-L6-tQ4"/>
         <segue reference="xHL-w0-fU2"/>
-        <segue reference="FC5-fW-faH"/>
+        <segue reference="GRM-jw-IyJ"/>
         <segue reference="Cb3-xs-t5N"/>
     </inferredMetricsTieBreakers>
     <resources>
