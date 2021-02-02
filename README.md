@@ -19,10 +19,16 @@ Why did I create Introspection?
 
 What are some benfits of using Introspection?
 -More productive and effective sessions
+
 -Better tracking of symptoms and behavior
+
 -Easier diagnosis 
+
 -Easier communication for clients 
+
 -A place to organize clients for providers
+
 -Providers can plan for sessions by reading the daily check in’s of the past week
+
 -Track progress 
 
