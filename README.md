@@ -25,6 +25,7 @@ Why did I create Introspection?
 -The first thing your therapist asks you in a session is how was your past week. That is a hard question to answer on the spot. With the app, your provider can see how your week went. This can make sessions more productive. As your provider already knows what symptoms you were feeling throughout the week. Also, if your client has a hard time expressing what is going on you can read their check-in’s and get a better understanding. Your therapist can see behaviors, symptoms, and emotions not present at your session. 
 
 What are some benfits of using Introspection?
+
 -More productive and effective sessions
 
 -Better tracking of symptoms and behavior
