@@ -4,6 +4,7 @@ Introspection is an app for mental health providers and their clients. There are
 
 What are some features?
 Client Version:
+
 -Daily Check In Journal
 
 -Coping Skills (directly given to you by your mental health provider)
