@@ -1,0 +1,2 @@
+# Introspection
+An app 100% in Swift made to simplify therapy. As a client, your mental health provider can see daily check in's you submit and can plan for your upcoming session. Get a better understanding of you as a person and your condition. You can track your progress and see how you have evolved on your mental health journey. As a mental health provider, you can make therapy sessions incredibly productive with insights into how your clients week went and see their emotions/symptoms day by day. 
