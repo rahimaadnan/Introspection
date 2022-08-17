@@ -6,9 +6,9 @@ What are some features?
 
 Client Version:
 
--Daily Check In Journal
+- Daily Check In Journal
 
--Coping Skills (directly given to you by your mental health provider)
+- Coping Skills (directly given to you by your mental health provider)
 
 Provider Version:
 
